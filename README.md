@@ -55,6 +55,6 @@ GENAI_RCAC_API_KEY=your_api_key_here
 ## LLM-Assisted Development
 - **Claude (Opus)**, **GPT**, and **CoPilot** were used as coding assistants throughout development.
 - Their role was limited to **debugging, code suggestions, and implementation assistance** (e.g., fixing control flow bugs, suggesting Python patterns, and helping with API usage).
-- LLMs were **not** used to generate project ideas, design decisions, data collection, or core algorithmic approaches. All ideas, architecture, and data are our own work
+- LLMs were **not** used to generate project ideas, design decisions, data collection, or core algorithmic approaches. All ideas, architecture, and data is own work
 
 
